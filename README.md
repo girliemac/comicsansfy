@@ -1,4 +1,4 @@
-comic-sansfy
+comicsansfy
 ============
 
 Make your web more friendly
