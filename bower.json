@@ -1,0 +1,21 @@
+{
+  "name": "comicsansfy",
+  "main": "comicsansfy.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/girliemac/comicsansfy",
+  "authors": [
+    "Tomomi Imura <tomomi.i@gmail.com>"
+  ],
+  "description": "Make your website more friendly with Comic Sans <3",
+  "keywords": [
+    "comic-sans"  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
