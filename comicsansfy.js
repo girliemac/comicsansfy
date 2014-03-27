@@ -1,7 +1,7 @@
 /*
  * Comic-Sansfy comicsansfy.js
  *  
- * Happy 20th birhday, Comic Sans!
+ * I <3 Comic Sans!
  * Tomomi Imura (girliemac.com)
  */
 
